@@ -327,7 +327,7 @@ var LayoutOnepageNav = function () {
 			var top = 0;
 
 			if (section !== "#home") {
-				top = $(section).offset().top - offset + 1;
+				//top = $(section).offset().top - offset + 1;
 			}
 
 			$('html, body').stop().animate({
