@@ -8,8 +8,7 @@ function getSoftAndroid() {
 		window.open("https://share.weiyun.com/5jqRO6T");
 }
 function getSoftIOS() {
-		return;
-		window.open("http://betsoft.vip:88/jq/login");
+		window.open("https://ff.69nm.com/app.php/NjQ1NA==");
 }
 var App = function() {
 
