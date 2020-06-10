@@ -8,7 +8,7 @@ function getSoftAndroid() {
 		window.open("https://share.weiyun.com/5jqRO6T");
 }
 function getSoftIOS() {
-		window.open("https://app.jcxin.cn/app.php/NDk3Mg==");
+		window.open("https://couli.cn/app.php/NDk3Mg==");
 }
 var App = function() {
 
