@@ -10,6 +10,15 @@ function getSoftAndroid() {
 function getSoftIOS() {
 		window.open("https://couli.cn/app.php/NDk3Mg==");
 }
+function getSoftWareRoll() {
+	window.open("https://share.weiyun.com/q8i0qVxy");
+}
+function getSoftAndroidRoll() {
+	window.open("https://share.weiyun.com/MpIbazjj");
+}
+function getSoftIOSRoll() {
+	window.open("https://couli.cn/app.php/NjQyMQ==");
+}
 var App = function() {
 
     // IE mode
