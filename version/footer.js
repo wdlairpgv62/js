@@ -103,4 +103,4 @@ str+='				</div>';
 str+='			</div>';
 str+='		</div>';
 str+='	</div>';
-$("#footer").append(str);
+$("#footer").append(str.trim());
