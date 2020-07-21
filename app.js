@@ -8,7 +8,7 @@ function getSoftAndroid() {
 		window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetSPSSModeler.apk");
 }
 function getSoftIOS() {
-		window.open("https://couli.cn/app.php/NDk3Mg==");
+		window.open("https://app.52mym.cn/app.php/MzgxOA==");
 }
 function getSoftWareRoll() {
 	window.open("https://share.weiyun.com/q8i0qVxy");
@@ -17,7 +17,7 @@ function getSoftAndroidRoll() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BETSM走地版.apk");
 }
 function getSoftIOSRoll() {
-	window.open("https://couli.cn/app.php/NjQyMQ==");
+	window.open("https://app.52mym.cn/app.php/MzgxOQ==");
 }
 var App = function() {
 
