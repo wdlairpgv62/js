@@ -1,24 +1,6 @@
 /**
 Core script to handle the entire theme and core functions
 **/
-function getSoftWare() {
-		window.open("https://share.weiyun.com/52aOynG");
-}
-function getSoftAndroid() {
-		window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetSPSSModeler.apk");
-}
-function getSoftIOS() {
-		window.open("https://swdzsw.cn/4REUTl");
-}
-function getSoftWareRoll() {
-	window.open("https://share.weiyun.com/q8i0qVxy");
-}
-function getSoftAndroidRoll() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BETSM走地版.apk");
-}
-function getSoftIOSRoll() {
-	window.open("https://swdzsw.cn/app.php/NjQyMA==");
-}
 var App = function() {
 
     // IE mode
