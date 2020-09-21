@@ -22,7 +22,7 @@ function getSoftWare_roll() {
 	window.open("https://share.weiyun.com/5u7bMb5");
 }
 function getSoftAndroid_roll() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/janq/roll/common/js/RollingPrediction.apk");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/RollingPrediction.apk");
 }
 function getSoftIOS_roll() {
 	window.open("http://www.keenbetsoft.com/ios/roll/index.html");
@@ -32,7 +32,7 @@ function getSoftWare_ana() {
 	window.open("https://share.weiyun.com/55FuKS9");
 }
 function getSoftAndroid_ana() {
-	window.open("https://share.weiyun.com/5MDi0cv");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetAnalysis.apk");
 }
 function getSoftIOS_ana() {
 	window.open("http://www.keenbetsoft.com/ios/ana/index.html");
@@ -42,7 +42,7 @@ function getSoftWare_be() {
 	window.open("https://share.weiyun.com/5EDa4Tv");
 }
 function getSoftAndroid_be() {
-	window.open("https://share.weiyun.com/5Fe8CPk");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BeFootBall.apk");
 }
 function getSoftIOS_be() {
 	window.open("http://www.keenbetsoft.com/ios/be/index.html");
@@ -52,7 +52,7 @@ function getSoftWare_future() {
 	window.open("https://share.weiyun.com/5saVXvA");
 }
 function getSoftAndroid_future() {
-	window.open("https://share.weiyun.com/5ORM07P");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/FuturePrediction.apk");
 }
 function getSoftIOS_future() {
 	window.open("http://www.keenbetsoft.com/ios/future/index.html");
@@ -62,7 +62,7 @@ function getSoftWare_porto() {
 	window.open("https://share.weiyun.com/3akSWqF1");
 }
 function getSoftAndroid_porto() {
-	window.open("https://share.weiyun.com/vclR5Bh4");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/porto.apk");
 }
 function getSoftIOS_porto() {
 	window.open("http://www.keenbetsoft.com/ios/porto/index.html");
@@ -72,7 +72,7 @@ function getSoftWare_keen() {
 	window.open("https://share.weiyun.com/YgmYSaMz");
 }
 function getSoftAndroid_keen() {
-	window.open("https://share.weiyun.com/8aHppAPx");
+	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/KeenBetSoft.apk");
 }
 function getSoftIOS_keen() {
 	window.open("http://www.keenbetsoft.com/ios/keen/index.html");
