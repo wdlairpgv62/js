@@ -3,19 +3,19 @@ function getSoftWare_betsm() {
 		window.open("https://share.weiyun.com/52aOynG");
 }
 function getSoftAndroid_betsm() {
-		window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetSPSSModeler.apk");
+		window.open("http://www.betsoft365.com/ios/betsm/android.html");
 }
 function getSoftIOS_betsm() {
-		window.open("http://www.keenbetsoft.com/ios/betsm/index.html");
+		window.open("http://www.betsoft365.com/ios/betsm/index.html");
 }
 function getSoftWareRoll_betsm() {
 	window.open("https://share.weiyun.com/q8i0qVxy");
 }
 function getSoftAndroidRoll_betsm() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BETSM走地版.apk");
+	window.open("http://www.betsoft365.com/ios/betsm-roll/android.html");
 }
 function getSoftIOSRoll_betsm() {
-	window.open("http://www.keenbetsoft.com/ios/betsm-roll/index.html");
+	window.open("http://www.betsoft365.com/ios/betsm-roll/index.html");
 }
 //roll
 function getSoftWare_roll() {
