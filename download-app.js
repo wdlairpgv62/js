@@ -1,6 +1,6 @@
 //betsm
 function getSoftWare_betsm() {
-		window.open("https://share.weiyun.com/52aOynG");
+		window.open("https://share.weiyun.com/wWQ2Ttkt");
 }
 function getSoftAndroid_betsm() {
 		window.open("http://www.betsoft365.com/ios/betsm/android.html");
@@ -9,7 +9,7 @@ function getSoftIOS_betsm() {
 		window.open("http://www.betsoft365.com/ios/betsm/index.html");
 }
 function getSoftWareRoll_betsm() {
-	window.open("https://share.weiyun.com/q8i0qVxy");
+	window.open("https://share.weiyun.com/oGWcQbzV");
 }
 function getSoftAndroidRoll_betsm() {
 	window.open("http://www.betsoft365.com/ios/betsm-roll/android.html");
@@ -19,7 +19,7 @@ function getSoftIOSRoll_betsm() {
 }
 //roll
 function getSoftWare_roll() {
-	window.open("https://share.weiyun.com/5u7bMb5");
+	window.open("https://share.weiyun.com/ILaCTikn");
 }
 function getSoftAndroid_roll() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/RollingPrediction.apk");
@@ -29,7 +29,7 @@ function getSoftIOS_roll() {
 }
 //ana
 function getSoftWare_ana() {
-	window.open("https://share.weiyun.com/55FuKS9");
+	window.open("https://share.weiyun.com/fE9Hb4Ed");
 }
 function getSoftAndroid_ana() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetAnalysis.apk");
@@ -39,7 +39,7 @@ function getSoftIOS_ana() {
 }
 //be
 function getSoftWare_be() {
-	window.open("https://share.weiyun.com/5EDa4Tv");
+	window.open("https://share.weiyun.com/LHgBrGaD");
 }
 function getSoftAndroid_be() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BeFootBall.apk");
@@ -49,7 +49,7 @@ function getSoftIOS_be() {
 }
 //future
 function getSoftWare_future() {
-	window.open("https://share.weiyun.com/5saVXvA");
+	window.open("https://share.weiyun.com/eSt8pQea");
 }
 function getSoftAndroid_future() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/FuturePrediction.apk");
@@ -59,7 +59,7 @@ function getSoftIOS_future() {
 }
 //porto
 function getSoftWare_porto() {
-	window.open("https://share.weiyun.com/3akSWqF1");
+	window.open("https://share.weiyun.com/4G2T2poO");
 }
 function getSoftAndroid_porto() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/porto.apk");
@@ -69,7 +69,7 @@ function getSoftIOS_porto() {
 }
 //keen
 function getSoftWare_keen() {
-	window.open("https://share.weiyun.com/YgmYSaMz");
+	window.open("https://share.weiyun.com/YMpyXsQk");
 }
 function getSoftAndroid_keen() {
 	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/KeenBetSoft.apk");
