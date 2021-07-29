@@ -1,6 +1,6 @@
 //betsm
 function getSoftWare_betsm() {
-		window.open("https://share.weiyun.com/wWQ2Ttkt");
+		window.open("http://www.betsoft365.com/ios/betsm/windows.html");
 }
 function getSoftAndroid_betsm() {
 		window.open("http://www.betsoft365.com/ios/betsm/android.html");
@@ -9,7 +9,7 @@ function getSoftIOS_betsm() {
 		window.open("http://www.betsoft365.com/ios/betsm/index.html");
 }
 function getSoftWareRoll_betsm() {
-	window.open("https://share.weiyun.com/oGWcQbzV");
+	window.open("http://www.betsoft365.com/ios/betsm-roll/windows.html");
 }
 function getSoftAndroidRoll_betsm() {
 	window.open("http://www.betsoft365.com/ios/betsm-roll/android.html");
@@ -19,13 +19,13 @@ function getSoftIOSRoll_betsm() {
 }
 //roll
 function getSoftWare_roll() {
-	window.open("https://share.weiyun.com/ILaCTikn");
+	window.open("http://www.rollbetsoft.com/ios/roll/windows.html");
 }
 function getSoftAndroid_roll() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/RollingPrediction.apk");
+	window.open("http://www.rollbetsoft.com/ios/roll/android.html");
 }
 function getSoftIOS_roll() {
-	window.open("http://www.keenbetsoft.com/ios/roll/index.html");
+	window.open("http://www.rollbetsoft.com/ios/roll/index.html");
 }
 //ana
 function getSoftWare_ana() {
