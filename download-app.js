@@ -32,7 +32,7 @@ function getSoftWare_ana() {
 	window.open("https://share.weiyun.com/fE9Hb4Ed");
 }
 function getSoftAndroid_ana() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BetAnalysis.apk");
+	window.open("http://www.allbetsoft.com/software/app/BetAnalysis.apk");
 }
 function getSoftIOS_ana() {
 	window.open("http://www.keenbetsoft.com/ios/ana/index.html");
@@ -42,7 +42,7 @@ function getSoftWare_be() {
 	window.open("https://share.weiyun.com/LHgBrGaD");
 }
 function getSoftAndroid_be() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/BeFootBall.apk");
+	window.open("http://www.allbetsoft.com/software/app/BeFootBall.apk");
 }
 function getSoftIOS_be() {
 	window.open("http://www.keenbetsoft.com/ios/be/index.html");
@@ -52,7 +52,7 @@ function getSoftWare_future() {
 	window.open("https://share.weiyun.com/eSt8pQea");
 }
 function getSoftAndroid_future() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/FuturePrediction.apk");
+	window.open("http://www.allbetsoft.com/software/app/FuturePrediction.apk");
 }
 function getSoftIOS_future() {
 	window.open("http://www.keenbetsoft.com/ios/future/index.html");
@@ -62,7 +62,7 @@ function getSoftWare_porto() {
 	window.open("https://share.weiyun.com/4G2T2poO");
 }
 function getSoftAndroid_porto() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/porto.apk");
+	window.open("http://www.allbetsoft.com/software/app/porto.apk");
 }
 function getSoftIOS_porto() {
 	window.open("http://www.keenbetsoft.com/ios/porto/index.html");
@@ -72,7 +72,7 @@ function getSoftWare_keen() {
 	window.open("https://share.weiyun.com/YMpyXsQk");
 }
 function getSoftAndroid_keen() {
-	window.open("https://cdn.jsdelivr.net/gh/wdlairpgv62/js/version/KeenBetSoft.apk");
+	window.open("http://www.allbetsoft.com/software/app/KeenBetSoft.apk");
 }
 function getSoftIOS_keen() {
 	window.open("http://www.keenbetsoft.com/ios/keen/index.html");
